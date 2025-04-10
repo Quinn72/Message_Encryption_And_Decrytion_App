@@ -1,0 +1,77 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files (optional)
+Thumbs.db
+Desktop.ini
+
+# Build results
+[Dd]ebug/
+[Dd]ebug|x64/
+[Dd]ebug|x86/
+[Dd]evelopment/
+[Dd]ebug-UnitTest/
+[Dd]ebug-Client/
+[Dd]ebug-Server/
+[Dd]ebug-Game/
+[Dd]ebug-Editor/
+[Dd]ebugWithAssets/
+[Dd]ebugWithShadows/
+Release/
+Release|x64/
+Release|x86/
+x64/
+x86/
+
+# Uncomment if you have an Out directory
+# Out/
+
+# User-specific files (Windows)
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# User-specific files (MacOS)
+.idea/
+.vscode/
+
+# ASP.NET
+# These files are commonly found in web development projects.
+# Check the ASP.NET documentation if you want to remove some of these files.
+appsettings.json
+appsettings.Development.json
+*.bak
+*.log
+
+# Visual Studio for Mac
+.vscode/
+
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider files
+.idea/
+
+# User-specific files for Xamarin Studio / Visual Studio for Mac
+.idea/
+
+# Node.js Modules (for JavaScript-related projects)
+node_modules/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
